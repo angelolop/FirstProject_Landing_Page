@@ -1,2 +1,2 @@
 Esse vai ser meu primeiro projeto. Estou bastante orgulhoso da minha evolução e pretendo aprender mais e mais. Ajudas, críticas e comentários sempre são bem vindos.
-Vou ficar atualizando de tempos em tempos
+Vou ficar atualizando de tempos em tempos. Tenho um plano do que fazer.
