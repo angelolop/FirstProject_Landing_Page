@@ -1,2 +1,6 @@
-Esse vai ser meu primeiro projeto. Estou bastante orgulhoso da minha evolução e pretendo aprender mais e mais. Ajudas, críticas e comentários sempre são bem vindos.
-Vou ficar atualizando de tempos em tempos. Tenho um plano do que fazer.
+# Apontamentos
+Esse vai ser o meu primeiro projeto, o inominável landing page, em que vemos muitos por aí. Porém terá bastante significado para mim, pois aqui se inicia minha jornada com a programação que com certeza não terá um fim. Estou me apaixonando por essa área e pretendo deixar minha marca nela uma hora ou outra. 
+## Nunca subestime os clássicos
+Dessa forma tudo tem um começo, sendo uma lenda ou não. Vou dar o meu primeiro passo em direção ao front-end e ficarei me aprimorando dia após dia, importante ressaltar que de grão em grão a galinha enche o papo!
+## Do que vai ser tratar?
+Vou focar esse projeto como uma apresentação minha ao mundo do desenvolvimento e desenvolvedores, como um "olá, mundo" para todos que já estão nessa casa de programações por um tempo. Não quero ser rude e não me apresentar!
