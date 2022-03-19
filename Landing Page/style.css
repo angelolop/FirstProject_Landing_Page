@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size:100%;
+    background: linear-gradient(270deg, #E23939 14.28%, rgba(70, 16, 16, 0.93) 85.99%);
+}
+
+.cabecalho{
+    display:flex;
+    gap: 220px;
+}
+
+.inicio{
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 15px;
+}
+.LogoSocial1{
+    height: 45px;
+    width: 130px;
+}
+.LogoSocial2{
+    height: 45px;
+    width: 105px;
+}
+.LogoSocial3{
+    height: 45px;
+    width: 50px;
+}
+.LogoSocial4{
+    height: 45px;
+    width: 105px;
+}
+.conteudo{
+    border-top: 0.4px solid #FFF2E7;
+    margin-bottom: 48px;
+}
+
+.conteudoPrincipal{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+}
+.conteudoPrincipalEscrito{
+    display:flex;
+    flex-direction: column;
+    font-family: 'Merriweather', serif;
+    color: white;
+    gap: 32px;
+}
+.apresentação{
+    font-family: 'Merriweather', serif;
+    color: white;
+    gap: 32px;
+}
+
+
