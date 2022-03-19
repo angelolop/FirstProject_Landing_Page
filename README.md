@@ -9,4 +9,4 @@ Vou focar esse projeto como uma apresentação minha ao mundo do desenvolvimento
 
 ## Obs: projeto ainda em construção.
 
-_Feito com paciência, perseverança e amor ❤️_
+_Sendo feito com paciência, perseverança e amor ❤️_
