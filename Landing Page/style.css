@@ -7,9 +7,9 @@
     text-decoration: none;
 }
 
-body{
+.inicio{
     font-size:100%;
-    background: linear-gradient(270deg, #E23939 14.28%, rgba(70, 16, 16, 0.93) 85.99%);
+    background: #c3b9b932;
 }
 
 .cabecalho{
@@ -27,22 +27,22 @@ body{
 }
 .LogoSocial1{
     height: 45px;
-    width: 130px;
+    width: 120px;
 }
 .LogoSocial2{
     height: 45px;
-    width: 105px;
+    width: 120px;
 }
 .LogoSocial3{
     height: 45px;
-    width: 50px;
+    width: 120px;
 }
 .LogoSocial4{
     height: 45px;
-    width: 105px;
+    width: 120px;
 }
 .conteudo{
-    border-top: 0.4px solid #FFF2E7;
+    border-top: 0.2px solid black;
     margin-bottom: 48px;
 }
 
@@ -57,12 +57,12 @@ body{
     display:flex;
     flex-direction: column;
     font-family: 'Merriweather', serif;
-    color: white;
+    color: black;
     gap: 32px;
 }
 .apresentação{
     font-family: 'Merriweather', serif;
-    color: white;
+    color: black;
     gap: 32px;
 }
 
