@@ -7,4 +7,6 @@ Dessa forma tudo tem um começo, sendo uma lenda ou não. Vou dar o meu primeiro
 ## Do que vai ser tratar?
 Vou focar esse projeto como uma apresentação minha ao mundo do desenvolvimento e desenvolvedores, como um "olá, mundo" para todos que já estão nessa casa de programações por um tempo. Não quero ser rude e não me apresentar!
 
+##Obs: projeto ainda em construção.
+
 _Feito com paciência, perseverança e amor ❤️_
