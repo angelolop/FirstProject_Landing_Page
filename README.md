@@ -5,8 +5,6 @@ Esse vai ser o meu primeiro projeto, o inominável landing page, em que vemos mu
 Dessa forma tudo tem um começo, sendo uma lenda ou não. Vou dar o meu primeiro passo em direção ao front-end e ficarei me aprimorando dia após dia. Importante ressaltar que de grão em grão a galinha enche o papo!
 
 ## Do que vai ser tratar?
-Vou focar esse projeto como uma apresentação minha ao mundo do desenvolvimento e desenvolvedores, como um "olá, mundo" para todos que já estão nessa casa de programações por um tempo. Não quero ser rude e não me apresentar!
+Vou focar esse projeto como uma apresentação minha ao mundo do desenvolvimento e desenvolvedores, criando uma landing page sobre advocacia, como um "olá, mundo" para todos que já estão nessa casa de programações por um tempo. Não quero ser rude e não me apresentar começando pelos básicos!
 
-## Obs: projeto ainda em construção.
-
-_Sendo feito com paciência, perseverança e amor ❤️_
+_Feito com paciência, perseverança e amor ❤️_
